@@ -1,0 +1,4 @@
+#header li:first-child, #header li:last-child, #content a.next
+{
+	border-radius:0;
+}

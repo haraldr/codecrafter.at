@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<rss version="2.0">
+  <channel>
+    <title>codecrafter.at</title>
+    <link>http://www.codecrafter.at</link>
+    <description>codecrafter.at News</description>
+    <language>en-us</language>
+    <copyright>(c) 2007 Harald Röxeisen</copyright>
+    <pubDate>Fri, 8 Jun 2007 00:00:00 +0000</pubDate>
+
+    <!--<item>
+      <title></title>
+      <description></description>
+      <link></link>
+      <author>Harald &lt;harald@codecrafter.at&gt;</author>
+      <guid>00001</guid>
+    </item>-->
+
+  </channel>
+</rss>
