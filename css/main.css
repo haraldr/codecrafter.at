@@ -238,6 +238,19 @@ input, select {color:#333333; margin:0px; padding:2px;}
 	border-left-color:#cc6868;
 }
 
+#header .availability
+{
+	position:relative;
+	display:block;
+	margin-top:25px;
+	text-align:center;
+	font-size:16px;
+	font-weight:bold;
+	padding:8px 0 8px 0;
+	vertical-align:middle;
+	background: linear-gradient(to right, rgba(0,0,0,0) 0%,rgba(0,0,0,0.3) 25%,rgba(0,0,0,0.3) 75%,rgba(0,0,0,0) 100%);	background: -moz-linear-gradient(left, rgba(0,0,0,0) 0%, rgba(0,0,0,0.3) 25%, rgba(0,0,0,0.3) 75%, rgba(0,0,0,0) 100%);	background: -webkit-linear-gradient(left, rgba(0,0,0,0) 0%,rgba(0,0,0,0.3) 25%,rgba(0,0,0,0.3) 75%,rgba(0,0,0,0) 100%);	filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#00000000', endColorstr='#00000000',GradientType=1);
+}
+
 #content
 {
 	width:960px;
@@ -569,7 +582,7 @@ input, select {color:#333333; margin:0px; padding:2px;}
 	
 	#content
 	{
-		width:480px;
+		width:460px;
 	}
 	
 	#content .tagline
@@ -779,6 +792,11 @@ input, select {color:#333333; margin:0px; padding:2px;}
 		position:relative;
 		display:block;
 		width:auto;
+	}
+	
+	#header .availability
+	{
+		margin-top:40px;
 	}
 	
 	#content
